@@ -1,0 +1,154 @@
+{
+  "configVersion": 1,
+  "timestamp": 1572617649811,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/5-es2015.0e27d1f227215d62243f.js",
+        "/5-es5.f0d2df5ee1fd6e7afd84.js",
+        "/6-es2015.5640034cf250a41f8a4a.js",
+        "/6-es5.aa99fb98bdfb3c673e9b.js",
+        "/7-es2015.08b18e034c24e06c9f68.js",
+        "/7-es5.379b5ea6b3aec7ebb1c8.js",
+        "/8-es2015.ed354aeb3d40c35dbb17.js",
+        "/8-es5.7b665d7e1e82c9f62401.js",
+        "/common-es2015.0c4060d618ce4c1bad16.js",
+        "/common-es5.edeac8bb824f41e049fa.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.e2b14ec78bf294b1d8eb.js",
+        "/main-es5.c5a78f69844d025314da.js",
+        "/polyfills-es2015.dc63b929a6b57bd3b557.js",
+        "/polyfills-es5.62d13e5b7ffe95c38db7.js",
+        "/runtime-es2015.33a68189fc3266cbb592.js",
+        "/runtime-es5.0b11d4a310b980e21045.js",
+        "/styles.f5d21045d3c49fd2daf4.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/MaterialIcons-Regular.012cf6a10129e2275d79.woff",
+        "/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2",
+        "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf",
+        "/MaterialIcons-Regular.e79bfd88537def476913.eot",
+        "/assets/google.png",
+        "/assets/google.svg",
+        "/assets/iconfont/MaterialIcons-Regular.eot",
+        "/assets/iconfont/MaterialIcons-Regular.ijmap",
+        "/assets/iconfont/MaterialIcons-Regular.svg",
+        "/assets/iconfont/MaterialIcons-Regular.ttf",
+        "/assets/iconfont/MaterialIcons-Regular.woff",
+        "/assets/iconfont/MaterialIcons-Regular.woff2",
+        "/assets/iconfont/README.md",
+        "/assets/iconfont/codepoints",
+        "/assets/iconfont/material-icons.css",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/insta-redirect.html",
+        "/assets/instagram.png",
+        "/assets/instagram.svg",
+        "/assets/source_sans_pro/sanspro.woff2",
+        "/assets/source_sans_pro/sanspro2.woff2",
+        "/sanspro.90823ba4929687bcff92.woff2",
+        "/sanspro2.899c8f78ce650d4009d4.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "vdcache",
+      "patterns": [
+        "\\/[^/]*\\/api\\/basics\\/vp\\/[^/]*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 1,
+      "maxAge": 43200000,
+      "timeoutMs": 10000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/5-es2015.0e27d1f227215d62243f.js": "0b1343f46eedc8685985995bb103e6a1d8bf5de9",
+    "/5-es5.f0d2df5ee1fd6e7afd84.js": "a11e365122d049a24768dadaccaed2a941ca9798",
+    "/6-es2015.5640034cf250a41f8a4a.js": "14d59d01cc0a34e3b36149a51344e9090e8b761e",
+    "/6-es5.aa99fb98bdfb3c673e9b.js": "e7e682e8b09e0650a47344e18ce088e02aaf95f0",
+    "/7-es2015.08b18e034c24e06c9f68.js": "265a431d4104da1410e53d5069e0cfe15ea50375",
+    "/7-es5.379b5ea6b3aec7ebb1c8.js": "840dd1f6d8946ff1818bbc7dc5150028dc694821",
+    "/8-es2015.ed354aeb3d40c35dbb17.js": "e4af0ad5daed5b55c1e281d86ad370ea4954f7d1",
+    "/8-es5.7b665d7e1e82c9f62401.js": "feb2a3047ae68997f1fdfa4010d4d53f4fab7ec8",
+    "/MaterialIcons-Regular.012cf6a10129e2275d79.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/MaterialIcons-Regular.570eb83859dc23dd0eec.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/MaterialIcons-Regular.e79bfd88537def476913.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/assets/google.png": "7e4b4058cfec67eaed46285b4ae61f5de648ff03",
+    "/assets/google.svg": "4224129c2db9134f5202d364bbeb5cccf43eef37",
+    "/assets/iconfont/MaterialIcons-Regular.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "/assets/iconfont/MaterialIcons-Regular.ijmap": "df468e87685c24b2a5d431036d4d5a434efdc28e",
+    "/assets/iconfont/MaterialIcons-Regular.svg": "9d0929f76061afd907d95f9d112d0bc766f7d26e",
+    "/assets/iconfont/MaterialIcons-Regular.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "/assets/iconfont/MaterialIcons-Regular.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "/assets/iconfont/MaterialIcons-Regular.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
+    "/assets/iconfont/README.md": "867c099a181af04de39152d48aee013a01fcd1cd",
+    "/assets/iconfont/codepoints": "9f50ec0cced0115e7786e4e26b53ff35d2c0f0a0",
+    "/assets/iconfont/material-icons.css": "d45506350e35c369dca6d1ed299b3688e590db8d",
+    "/assets/icons/icon-128x128.png": "55ebffd172f2f7c921b4bbb76b7aaf7b1fe03467",
+    "/assets/icons/icon-144x144.png": "a27f379ec56f886659cceaa4f55a91582b113773",
+    "/assets/icons/icon-152x152.png": "fca4e2802f660580fb097cdcc9d90170a261f16d",
+    "/assets/icons/icon-192x192.png": "7fbf4325559d2a11fad7d7a73c8e281ce4d52557",
+    "/assets/icons/icon-384x384.png": "da391ebc92bce9414f4fc99911fc71a51417d5e7",
+    "/assets/icons/icon-512x512.png": "58635bcec94a2dd604e026f187ba6c3e95c72eb9",
+    "/assets/icons/icon-72x72.png": "9c66064fb1f06c8878f616f8e9d3ce38abe75b88",
+    "/assets/icons/icon-96x96.png": "8d0cb9df8578d4a1781364c07389965c73c480cd",
+    "/assets/insta-redirect.html": "6c1c9460f1b3c3e2a3fbf21a88ce4a0e4a14a4e3",
+    "/assets/instagram.png": "f6f8acbce5067bef8672a08fd321385a841318c1",
+    "/assets/instagram.svg": "4afee203b0e0d236827646ea19571e17a6fccf01",
+    "/assets/source_sans_pro/sanspro.woff2": "908356cddc92a3c38e349bace9f0b194ef9f8a34",
+    "/assets/source_sans_pro/sanspro2.woff2": "d2e2faa9780b7fca5a5cb20a853dd7df55b3101e",
+    "/common-es2015.0c4060d618ce4c1bad16.js": "d1e92e1a88ccce88079a0f3d69663efb8d3dc0cb",
+    "/common-es5.edeac8bb824f41e049fa.js": "757a9317f3324faa21abb34730c4c39071d24b5a",
+    "/favicon.ico": "73569cebdb0375d343ad1e6de9567a448a5a71c0",
+    "/index.html": "fb374526a9f56d98b400ccdb90c2627d239bb053",
+    "/main-es2015.e2b14ec78bf294b1d8eb.js": "d728f744421d34cce4b513f1dc1879eabac4e736",
+    "/main-es5.c5a78f69844d025314da.js": "c30be06b0e3090fddf01bcf11d5e9874180c5e92",
+    "/polyfills-es2015.dc63b929a6b57bd3b557.js": "6a9a5af5270eefdd20867ce2431e2d39701e7757",
+    "/polyfills-es5.62d13e5b7ffe95c38db7.js": "54ae0a35f38971abdf86485094520eaf12d8b19e",
+    "/runtime-es2015.33a68189fc3266cbb592.js": "e4f2a51b68202eafe4441baa4edb70f2db7b6b0d",
+    "/runtime-es5.0b11d4a310b980e21045.js": "6bd7ce17db7f1925a60f33b95dfc996e1d8ffd90",
+    "/sanspro.90823ba4929687bcff92.woff2": "908356cddc92a3c38e349bace9f0b194ef9f8a34",
+    "/sanspro2.899c8f78ce650d4009d4.woff2": "d2e2faa9780b7fca5a5cb20a853dd7df55b3101e",
+    "/styles.f5d21045d3c49fd2daf4.css": "de38d1df311e084349030ba25c7ca97646a95c77"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
